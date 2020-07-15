@@ -6,7 +6,7 @@ def connectDB():
     con = psycopg2.connect(
         database="cobajydu",
         user="cobajydu",
-        password="JKeoMazBOeXzE_dbVcBEUyUEZsIZz77s",
+        password="",
         host="rajje.db.elephantsql.com",
         port="5432"
     )
