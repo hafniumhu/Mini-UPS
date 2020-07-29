@@ -3,4 +3,8 @@ This project is a mini-UPS server that works with a world simulator and an mini-
 
 [image1]: ./functionality.png
 
-To change the address of world_simulator, go to `socket_helper` in the back end.
+![alt text][image1]
+
+## Run
+In docker-front: docker-compose up <br/>
+In docker-end: docker-compose up
